@@ -25,6 +25,7 @@
     width: auto;
     border-left: 1px solid black;
     font-size: 14px;
+    color: white;
 }
 
 .item:first-child {
