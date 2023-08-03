@@ -1,0 +1,35 @@
+.green {
+    color: green;
+    font-size: 100px;
+    padding-bottom: 60px;
+
+}
+
+.red {
+    display: block;
+    color: red;
+    font-size: 100px;
+    padding-bottom: 60px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 200px;
+    border: 1px solid gray;
+    border-bottom: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color:blueviolet;
+    background-color: beige;
+}
+
+.item:last-child {
+    border: 1px solid gray;
+}
+
+.avatar {
+    margin-right: 10px;
+}
